@@ -1,1 +1,1 @@
-Repo for Jenkins demo
+Repo for Selenium Grid integration with Jenkins
